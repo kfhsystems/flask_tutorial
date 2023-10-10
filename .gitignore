@@ -399,7 +399,7 @@ FodyWeavers.xsd
 
 # KFH: Python and Flask related files
 .gitignore
-.venv/
+venv/
 
 *.pyc
 __pycache__/
