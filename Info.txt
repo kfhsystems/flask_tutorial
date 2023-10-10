@@ -1,0 +1,3 @@
+# Git 
+=> git remote add origin https://github.com/kfhsystems/flask_tutorial.git
+=> 
